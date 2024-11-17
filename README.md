@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cyrus @CYZeusX
 - 👀 I’m interested in Arts (drawing), Photography, Coding, and Enjoying to music!
-- 🌱 I’m currently learning Java programming, Operating Systems, and DataBase ystems!
+- 🌱 I’m currently learning Java programming, Operating Systems, and DataBase Systems!
 - 📫 How to reach me:
         gmail: honyin.chu@gmail.com
         mobile: +44  78740 10200
